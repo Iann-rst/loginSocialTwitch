@@ -1,6 +1,7 @@
 # Desafio: Login Social com a Twitch
 
 Neste desafio foi criado uma aplicação para treinar o que aprendeu até agora no React Native.
+
 Essa será uma aplicação de login social com a Twitch, onde você vai treinar um pouco mais sobre autenticação e Context API.
 
 ## :dart: Implementação das funcionalidades
