@@ -11,8 +11,8 @@ Essa será uma aplicação de login social com a Twitch, onde você vai treinar 
 
 ## :camera: Screenshots da aplicação
 <div align="center">
-  <img alt="Página de Login" src=".github/signIn.jpeg" height=300/>
-  <img alt="Página Home" src=".github/home.jpeg" height=300/>
+  <img alt="Página de Login" src=".github/signIn.jpeg" height="500"/>
+  <img alt="Página Home" src=".github/home.jpeg" height="500"/>
 </div>
 
 ## :man_technologist: Tecnologias
